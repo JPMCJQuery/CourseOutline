@@ -46,29 +46,19 @@ All students receive a copy of Apress's Pro jQuery as well as a course manual an
   - Survey of jQuery Utility Methods
 
 - Selecting and Manipulating DOM Elements with jQuery 
-
-- 
   - Using CSS Selectors 
     - Basic CSS Selectors
     - Hierarchical Selectors
     - Attribute Selectors
-
   - Adding jQuery Filters to Your Selectors 
-
-- 
-  - 
     - Basic Filters
     - Content Filters
     - Visibility Filters
     - Child-Specific Filters
     - Form Element Filters
-
-- 
   - Survey of Additional jQuery Object Methods
 
 - Event-Driven Programming with jQuery 
-
-- 
   - Event Helper Methods
   - Interaction Helper: hover()
   - A Closer Look at the jQuery Event Object
@@ -78,8 +68,6 @@ All students receive a copy of Apress's Pro jQuery as well as a course manual an
   - jQuery Special Events
 
 - jQuery and Ajax 
-
-- 
   - The load() Method
   - Basic Ajax Requests with $.get() and $.post()
   - $.getJSON() and $.getScript()
@@ -88,8 +76,6 @@ All students receive a copy of Apress's Pro jQuery as well as a course manual an
   - Ajax Helper Methods
 
 - Extending jQuery 
-
-- 
   - Adding Custom Filters to Selectors
   - Best Practices for Plugin Methods
   - Utility Method Plugins
